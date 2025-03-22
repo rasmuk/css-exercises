@@ -1,0 +1,19 @@
+.p {
+    background-color: #e9967a;
+    font-family: Verdana, 'Dejavu Sans', 'sans-serif';
+}
+
+.pclass {
+    font-size: 24px; 
+}
+
+#div2 {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#div4 {
+    background-color: #7fff00;
+    font-weight: bold;
+    font-size: 24px;
+}
